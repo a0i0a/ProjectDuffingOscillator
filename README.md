@@ -1,7 +1,7 @@
 # ProjectDuffingOscillator
 Simulation of the vibratory motion of the Duffing Oscillator using several Fourth Order Runge Kutta methods
 
-Input.txt 
+Input.txt
 File for the versions of fourth order Runge-Kutta to be used in the simulation.
 
 ProjectDuffingOscillator.f95
